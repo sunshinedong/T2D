@@ -1,2 +1,3 @@
 # T2D
-TableS4
+Table S3
+Table S4
